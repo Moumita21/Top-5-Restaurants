@@ -1,0 +1,1 @@
+Hello, We as a team have build a restaurant recommendation system that would give top 5 recommended restaurants in Kolkata based on the user preference. We have used Vectorization, Cosine similiraty, A/B testing to make the website more efficient.
